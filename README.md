@@ -1,2 +1,0 @@
-# Labrs
-My larbs Rice
